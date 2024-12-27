@@ -16,7 +16,7 @@ Our design ethos is centered around:
 ## 🛠 Technical Stack
 
 - 🖥 **Frontend**: JavaScript with Tailwind CSS for sleek, responsive designs
-- 🔧 **Backend**: Node.js powering our robust REST API
+- 🔧 **Backend**: Node.js and Express.js powering our robust REST API
 - 📦 **Package Management**: npm for seamless dependency handling
 - 💾 **Database**: PostgreSQL, ready for deployment on your favorite cloud (AWS, Azure, etc.)
 - 🎭 **Styling**: A harmonious blend of Tailwind and native CSS, striking the perfect balance between aesthetics and code maintainability
@@ -24,11 +24,12 @@ Our design ethos is centered around:
 ## ✨ Key Features
 
 - ☁️ Cloud-ready architecture for easy deployment and scaling
-- 🔄 Full-stack JavaScript for seamless integration between client and server
+- 🔄 Full-stack JavaScript with Express.js for seamless integration between client and server
 - 🖌 Thoughtfully crafted UI/UX focusing on simplicity and good vibes
 - 🚀 Optimized performance for a smooth coffee-ordering experience
 - 👤 Role-based access control for users and workers
 - 🔒 Exclusive sections for Puig Coffee workers
+- 🌐 RESTful API design using Express.js for efficient data handling
 
 ## 🔐 User Roles and Access
 
@@ -47,10 +48,11 @@ This role-based system ensures that each user has access to the appropriate cont
 This project represents a significant milestone as my first full-stack application. Developed over the course of two months, Puig Coffee demonstrates my commitment to learning and applying a wide range of web development technologies. It showcases my ability to create a comprehensive, user-focused application that integrates both front-end and back-end technologies seamlessly.
 
 Key achievements during this two-month development period include:
-- 📚 Mastering full-stack JavaScript development
+- 📚 Mastering full-stack JavaScript development with Node.js and Express.js
 - 🎨 Implementing responsive design principles with Tailwind CSS
 - 🔒 Developing a secure role-based access control system
 - ☁️ Creating a cloud-ready architecture for scalability
+- 🌐 Designing and implementing a RESTful API using Express.js
 
 This project not only serves as a testament to my technical skills but also to my dedication to creating high-quality, user-centric web applications.
 
@@ -62,6 +64,7 @@ As my first full-stack project, Puig Coffee is ripe for growth and improvements.
 - 📈 Enhance the worker portal with more tools and insights
 - 🔒 Further develop our role-based access control for even more granular permissions
 - 🚀 Optimize performance and scalability for larger user bases
+- 🔧 Extend the Express.js API with additional endpoints and features
 
 ## ☕ Brew with Us!
 
