@@ -4,7 +4,7 @@ Welcome to Puig Coffee - A delightful REST API for coffee commerce, brewed with 
 
 ## 🌟 Overview
 
-Puig Coffee is a full-stack JavaScript project that brings the warmth of a coffee shop to the digital world. Built in just one week, this project showcases the power of simplicity and good design in creating exceptional user experiences.
+Puig Coffee is a Full-Stack JavaScript project that brings the warmth of a coffee shop to the digital world. Built in just one week, this project showcases the power of simplicity and good design in creating exceptional user experiences.
 
 ## 🎨 Design Philosophy
 
