@@ -15,7 +15,7 @@ Our design ethos is centered around:
 
 ## 🛠 Technical Stack
 
-- 🖥 **Frontend**: JavaScript with Tailwind CSS for sleek, responsive designs
+- 🖥 **Frontend**: JavaScript with Tailwind CSS for ideal photo cards
 - 🔧 **Backend**: Node.js and Express.js powering our robust REST API
 - 📦 **Package Management**: npm for seamless dependency handling
 - 💾 **Database**: PostgreSQL, ready for deployment on your favorite cloud (AWS, Azure, etc.)
